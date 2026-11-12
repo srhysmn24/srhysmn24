@@ -1,47 +1,37 @@
 <h1 align="center">Hi, I'm Sarah Yasmin 👋</h1>
 
 <p align="center">
-  <strong>Information Systems (Intelligent System Engineering) Undergraduate</strong><br/>
-  Interested in Artificial Intelligence, Machine Learning, Data Analytics & Software Development
+  Information Systems Undergraduate · Big Data Track · Universiti Teknologi MARA (UiTM)
 </p>
 
----
+### About Me
 
-### 👩‍💻 About Me
+I'm currently pursuing a **Bachelor of Information Systems (Hons.) Intelligent System Engineering**, specialising in **Big Data**, at Universiti Teknologi MARA (UiTM). I also hold a Diploma in Computer Science.
 
-I'm pursuing a **Bachelor of Information Systems (Hons.) Intelligent System Engineering** at **Universiti Teknologi MARA (UiTM)**, focusing on artificial intelligence. I previously completed a **Diploma in Computer Science**.
+My main interests are **Data Analytics, Business Intelligence, Machine Learning, and Data Science**. Through my coursework and projects, I've been developing skills in data preprocessing, predictive modelling, data visualisation, and building practical applications.
 
-I enjoy applying programming, data analysis, and intelligent systems concepts to practical academic projects.
+### Skills & Tools
 
-- 🔬 Currently working on an **e-commerce order cancellation prediction** final-year project.
-- 📊 Interested in **AI/ML, data analytics, business intelligence, and systems development**.
-- 🌱 Building experience in predictive modelling, optimisation, and application development.
+- **Data & Machine Learning:** Python, R, SQL, Pandas, NumPy, Scikit-learn, XGBoost
+- **Data Visualisation & Analysis:** Tableau, Microsoft Excel, Matplotlib
+- **Programming & Web:** JavaScript, Java, C++, PHP, HTML, CSS, MySQL
+- **Development Tools:** Git, GitHub, VS Code, Figma
 
-### 🛠️ Skills & Technologies
+### Selected Projects
 
-**Programming:** Python · Java · C++ · PHP · JavaScript · R · SQL  
-**Web & Databases:** HTML · CSS · MySQL  
-**Areas of Interest:** Machine Learning · Predictive Analytics · Optimisation · Intelligent Systems  
-**Tools:** Figma · Git · GitHub · VS Code
-
-### 📌 Selected Projects
-
-| Project | Overview | Technologies |
+| Project | Description | Technologies |
 | --- | --- | --- |
-| [MedicHub — Clinic Management System](https://github.com/srhysmn24/MedicHubSystem) | Academic web application exploring patient registration, appointments, and clinic records. | PHP, MySQL, HTML, CSS |
-| [Big Pharmacy — Medicine Records](https://github.com/srhysmn24/BigPharmacyMedicine) | Console application applying linked lists and queues to medicine purchase records. | Java |
-| [BlueMoon Hotel — Hotel Management System](https://github.com/srhysmn24/HotelManagementSystem) | Hotel booking, package selection, payment, and sales reporting simulation. | C++ |
+| [E-Commerce Order Cancellation Prediction](https://github.com/srhysmn24/FYP-Order-Cancellation-) | My final-year project exploring cancellation risk prediction using transaction data and comparing ensemble machine learning models. | Python, XGBoost, Random Forest, Gradient Boosting, FastAPI |
+| [Curate — Product Explorer](https://github.com/srhysmn24/curate-product-explorer) | A responsive product browsing website with search, category filters, favourites, and browser storage. | HTML, CSS, Vanilla JavaScript, REST API |
+| [MedicHub — Clinic Management System](https://github.com/srhysmn24/MedicHubSystem) | An academic web application for managing clinic records and appointments. | PHP, MySQL, HTML, CSS |
+| [Big Pharmacy — Medicine Records](https://github.com/srhysmn24/BigPharmacyMedicine) | A console application that applies data structures to manage medicine purchase records. | Java |
 
-### 🚧 Currently Working On
+### Currently Working On
 
-**E-Commerce Order Cancellation Prediction (Final-Year Project)**
+My final-year project focuses on **e-commerce order cancellation risk prediction** using an Indonesian e-commerce dataset. I'm exploring data preparation, class imbalance handling, and model evaluation to understand how well different machine learning approaches identify cancelled orders.
 
-Exploring machine learning methods to identify potentially cancelled e-commerce orders. This project is ongoing; code and documentation will be shared when ready.
+I'm also interested in internship opportunities involving **data analytics, business intelligence, and machine learning**.
 
-### 🤝 Connect
+### Connect
 
-- [GitHub — @srhysmn24](https://github.com/srhysmn24)
-
----
-
-<p align="center"><em>Learning, building, and improving — one project at a time.</em></p>
+- [GitHub](https://github.com/srhysmn24)
